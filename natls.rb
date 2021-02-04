@@ -1,8 +1,8 @@
 class Natls < Formula
   desc "⚡️ nat - the 'ls' replacement you never knew you needed⚡️"
   homepage "https://github.com/willdoescode/nat"
-  url "https://github.com/willdoescode/nat/archive/v2.1.9.tar.gz"
-  sha256 "b2be486587d0bf80514d901314200447eb5f510b50124341119e809c6d88f39e"
+  url "https://github.com/willdoescode/nat/archive/v2.1.10.tar.gz"
+  sha256 "f1633f84dca47bcbd3b2dc1459f47b156c9bb30175c4cbe8c629628d74411df1"
   license "MIT"
 
   depends_on "rust" => :build
